@@ -1,11 +1,9 @@
 ---
-title: Hello
+title: JavaScript
 date: 2021-04-24 15:02
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [js]     # TAG names should always be lowercase
 ---
-
-# JavaScript
 
 ## 数据类型
 
