@@ -1,8 +1,9 @@
 ---
 title: ByteDance FrontEnd
 date: 2021-04-24 22:40
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [ByteDance]     # TAG names should always be lowercase
+categories: [Note, FE]
+tags: [byte-dance]
+comments: true
 ---
 
 ## 课程内容

@@ -1,7 +1,7 @@
 ---
 title: JavaScript
 date: 2021-04-24 15:02
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [Note, Language]
 tags: [js]     # TAG names should always be lowercase
 ---
 

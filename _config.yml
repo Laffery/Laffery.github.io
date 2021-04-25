@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Kuqiochi                          # the main title
+title: Laffery                      # the main title
 
-tagline: Girl friend of Laffery  # it will display as the sub-title
+tagline: Bot friend of Kuqiochi  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
