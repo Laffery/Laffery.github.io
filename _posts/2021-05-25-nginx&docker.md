@@ -130,3 +130,13 @@ Dockerfile:
     docker run -d --network [network] --name [next-name] [next-image]
     docker run -d --network [network] --link [next-name]:nextjs -p 80:80 --name [nginx-name] [nginx-image]
     ```
+
+## 升级到Https
+
+下载SSL证书并部署，参考[文章](https://cloud.tencent.com/document/product/400/35244)
+
+在这个过程中遇到了一些问题，即报错`wrong version number`
+
+以为是http的版本，把1.1升级到2，问题还是没有解决
+
+最后发现是由于前端项目使用的http协议，需要把`proxy_pass`改成http协议的😓
